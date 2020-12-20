@@ -16,7 +16,7 @@ def is_exist_element(browser, selector_xpath):
 
 
 class TestMain:
-    def test_exist_button(self, browser):
+    def test_exist_add_button(self, browser):
         # Ссылка на сайт
         link = "http://selenium1py.pythonanywhere.com/catalogue/coders-at-work_207/"
 

@@ -28,4 +28,4 @@ class TestMain:
         assert is_exist_element(browser, "//form[@id='add_to_basket_form']//button"), "Кнопки нет на странице"
 
         # Для проверки французской версии
-        time.sleep(3)
+        # time.sleep(30)

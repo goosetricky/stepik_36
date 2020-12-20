@@ -4,7 +4,6 @@ import math
 from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.by import By
-from webdriver_manager.firefox import GeckoDriverManager
 
 
 # функция, определяющая наличие элемента на странице
